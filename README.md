@@ -1,18 +1,89 @@
-# ¡Hola! Soy [Tu Nombre] 💜
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=7851a9&height=150&section=header&text=Bienvenido%20a%20mi%20perfil&fontSize=50" />
-</p>
+<img src="TU_BANNER" width="100%">
 
-### ✨ Sobre mí
-- 🔭 Estoy trabajando en **Neptuno Core**.
-- 💻 Me apasiona la programación en **C++ y Arduino**.
-- 🎨 Me gusta la estética **dark gothic**.
+# ⚡ NEPTUNO CORE ⚡
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=[TU_USUARIO]&show_icons=true&theme=dracula" />
-</p>
+```bash
+> booting system...
+> loading kernel modules...
+> initializing JounaDev...
+> status: ONLINE
+```
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=C%2B%2B+Developer;Embedded+Systems;Arduino+Engineer;Machine+State+Architecture;Dark+Gothic+Style" />
+
+</div>
 
 ---
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZ3bmZ3bmZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/3o7TKMGpxx6B35J4t2/giphy.gif" width="50px"> 
-*Programando con estilo.*
+
+# 🧠 SYSTEM INFO
+
+```yaml
+Developer: JounaDev
+Language: C++
+Hardware: Arduino
+Architecture: State Machines
+Current Project: Neptuno Core
+Style: Dark Gothic
+Status: Building the future
+```
+
+---
+
+# ⚙ CORE MODULES
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,arduino,linux,git,vscode,github,bash" />
+
+</div>
+
+---
+
+# 🌌 NEPTUNO CORE
+
+> Sistema modular basado en eventos y máquinas de estado.
+
+```cpp
+enum SystemState {
+    OFF,
+    BOOT,
+    STANDBY,
+    ACTIVE,
+    RESET
+};
+```
+
+---
+
+# 📡 SYSTEM METRICS
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=TUUSUARIO&theme=tokyonight&hide_border=true&background=0D1117" />
+
+</div>
+
+---
+
+# ☠ SIGNALS
+
+<div align="center">
+
+![snake gif](https://github.com/TUUSUARIO/TUUSUARIO/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+<div align="center">
+
+```diff
++ SYSTEM READY
++ NEPTUNO CORE ONLINE
+```
+
+</div>
