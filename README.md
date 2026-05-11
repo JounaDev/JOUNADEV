@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/JounaDev/JOUNADEV/main/assets/descarga.jfif" width="700">
+<img src="https://raw.githubusercontent.com/JounaDev/JOUNADEV/main/assets/descarga.png.png" width="700">
 
 # ⚡ NEPTUNO CORE ⚡
 
