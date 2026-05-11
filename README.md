@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-    src="https://raw.githubusercontent.com/JounaDev/JOUNADEV/main/banner.png"
+    src="https://raw.githubusercontent.com/JounaDev/JOUNADEV/main/descarga.png.png"
     width="100%"
   />
 </p>
