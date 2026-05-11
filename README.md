@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="assets/banner.png.png" width="700">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/JounaDev/JOUNADEV/main/descarga.png.png" width="700">
+</p>
 
 # ⚡ NEPTUNO CORE ⚡
 
