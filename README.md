@@ -44,6 +44,31 @@ Status: ONLINE
 </p>
 
 ---
+# 🔗 REPOSITORIES
+
+<p align="center">
+
+  <a href="https://github.com/JounaDev/NeptunoCore">
+    <img 
+      src="https://img.shields.io/badge/NEPTUNO_CORE-00BFFF?style=for-the-badge&logo=github&logoColor=white"
+    />
+  </a>
+
+  <a href="https://github.com/JounaDev">
+    <img 
+      src="https://img.shields.io/badge/GITHUB_PROFILE-00BFFF?style=for-the-badge&logo=github&logoColor=white"
+    />
+  </a>
+
+  <a href="https://github.com/JounaDev?tab=repositories">
+    <img 
+      src="https://img.shields.io/badge/ALL_PROJECTS-00BFFF?style=for-the-badge&logo=github&logoColor=white"
+    />
+  </a>
+
+</p>
+
+
 
 # 🌌 CORE ARCHITECTURE
 
