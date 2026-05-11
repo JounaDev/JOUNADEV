@@ -1,21 +1,15 @@
-<div align="center">
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/JounaDev/JOUNADEV/main/descarga.png.png" width="700">
+  <img 
+    src="https://raw.githubusercontent.com/JounaDev/JOUNADEV/main/banner.png"
+    width="100%"
+  />
 </p>
 
-# ⚡ NEPTUNO CORE ⚡
+<h1 align="center">⚡ NEPTUNO CORE ⚡</h1>
 
-```bash
-> booting system...
-> loading kernel modules...
-> initializing JounaDev...
-> status: ONLINE
-```
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=C%2B%2B+Developer;Embedded+Systems;Arduino+Engineer;Machine+State+Architecture;Dark+Gothic+Style" />
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=C%2B%2B+Developer;Embedded+Systems;Arduino+Engineer;Machine+State+Architecture;Dark+Gothic+Style" />
+</p>
 
 ---
 
@@ -26,26 +20,22 @@ Developer: JounaDev
 Language: C++
 Hardware: Arduino
 Architecture: State Machines
-Current Project: Neptuno Core
+Project: Neptuno Core
 Style: Dark Gothic
-Status: Building the future
+Status: ONLINE
 ```
 
 ---
 
 # ⚙ CORE MODULES
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=cpp,arduino,linux,git,vscode,github,bash" />
-
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,arduino,linux,git,github,vscode,bash" />
+</p>
 
 ---
 
-# 🌌 NEPTUNO CORE
-
-> Sistema modular basado en eventos y máquinas de estado.
+# 🌌 CORE ARCHITECTURE
 
 ```cpp
 enum SystemState {
@@ -57,35 +47,63 @@ enum SystemState {
 };
 ```
 
----
+```cpp
+class Kernel {
+public:
 
-# 📡 SYSTEM METRICS
+    void boot();
+    void standby();
+    void reset();
+    void shutdown();
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=TUUSUARIO&theme=tokyonight&hide_border=true&background=0D1117" />
-
-</div>
-
----
-
-# ☠ SIGNALS
-
-<div align="center">
-
-![snake gif](https://github.com/TUUSUARIO/TUUSUARIO/blob/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
-<div align="center">
-
-```diff
-+ SYSTEM READY
-+ NEPTUNO CORE ONLINE
+};
 ```
 
-</div>
+---
+
+# 🚀 CURRENT PROJECT
+
+```bash
+> Initializing Neptuno Core...
+> Loading system modules...
+> Synchronizing hardware...
+> Kernel status: ONLINE
+```
+
+---
+
+# 📊 GITHUB STATS
+
+<p align="center">
+
+  <img 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api?username=JounaDev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"
+  />
+
+  <img 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JounaDev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"
+  />
+
+</p>
+
+---
+
+# ☠ SYSTEM STATUS
+
+```diff
++ Kernel initialized
++ Hardware synchronized
++ State machine running
++ Neptuno Core ONLINE
+```
+
+---
+
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00BFFF&height=120&section=footer"
+    width="100%"
+  />
+</p>
