@@ -70,7 +70,7 @@ Status: ONLINE
 
   <a href="https://jounadev.github.io/">
     <img 
-      src="https://img.shields.io/badge/ALL_PROJECTS-00BFFF?style=for-the-badge&logo=github&logoColor=white"
+      src="https://img.shields.io/badge/MY CV-00BFFF?style=for-the-badge&logo=github&logoColor=white"
     />
   </a>
 </p>
