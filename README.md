@@ -1,35 +1,86 @@
 <!-- ============================================================
      NEPTUNO CORE
-     Embedded Systems Architecture
-     JounaDev
+     JounaDev — Embedded Systems / C++ / Arduino
+     
+     Visual identity:
+     NeoGlass × Industrial × Rock × Embedded Engineering
      ============================================================ -->
 
-# NEPTUNO CORE
-
-> **Embedded Systems Architecture · C++ · Arduino · State Machines**
+<!-- ╔══════════════════════════════════════════════════════════╗
+     ║                         HERO                             ║
+     ╚══════════════════════════════════════════════════════════╝ -->
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&color=00BFFF&center=true&vCenter=true&width=720&lines=Embedded+Systems+Architecture;Deterministic+Firmware;C%2B%2B+%2B+Arduino;Hardware+Control;State+Machine+Design"
-    alt="NEPTUNO CORE"
+    src="https://raw.githubusercontent.com/JounaDev/JOUNADEV/main/descarga.png"
+    width="100%"
+    height="300"
+    alt="NEPTUNO CORE — Embedded Systems"
   />
 </p>
 
 <p align="center">
 
-  <img src="https://img.shields.io/badge/STATUS-ONLINE-00BFFF?style=flat-square&logo=statuspage&logoColor=00BFFF" />
-  <img src="https://img.shields.io/badge/KERNEL-NEPTUNO_CORE-00BFFF?style=flat-square" />
-  <img src="https://img.shields.io/badge/C%2B%2B-17%2B-00BFFF?style=flat-square&logo=cplusplus&logoColor=00BFFF" />
-  <img src="https://img.shields.io/badge/PLATFORM-ARDUINO-00BFFF?style=flat-square&logo=arduino&logoColor=00BFFF" />
-  <img src="https://img.shields.io/badge/BUILD-PLATFORMIO-00BFFF?style=flat-square&logo=platformio&logoColor=00BFFF" />
+<img
+ src="https://img.shields.io/badge/NEPTUNO_CORE-00BFFF?style=for-the-badge&logo=arduino&logoColor=white"
+ alt="Neptuno Core"
+/>
 
 </p>
 
+<h1 align="center">
+  NEPTUNO CORE
+</h1>
+
+<p align="center">
+  <strong>Embedded Systems Architecture</strong>
+</p>
+
+<p align="center">
+  C++ · Arduino · PlatformIO · State Machines · Hardware Control
+</p>
+
+<p align="center">
+
+  <img src="https://img.shields.io/badge/SYSTEM-ONLINE-00BFFF?style=flat-square" />
+  <img src="https://img.shields.io/badge/KERNEL-ACTIVE-00BFFF?style=flat-square" />
+  <img src="https://img.shields.io/badge/STATE_MACHINE-READY-00BFFF?style=flat-square" />
+  <img src="https://img.shields.io/badge/HARDWARE-SYNCED-00BFFF?style=flat-square" />
+
+</p>
+
+<br>
+
+<!-- ROCK DECALS -->
+
+<p align="center">
+
+  <img src="https://img.shields.io/badge/⚡_BUILD-00BFFF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/★_ROCK_R%26D-111820?style=for-the-badge&labelColor=05070A" />
+  <img src="https://img.shields.io/badge/⚙_HARDWARE-00BFFF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/☠_DEBUG-111820?style=for-the-badge&labelColor=05070A" />
+
+</p>
+
+> **NEPTUNO CORE** is a personal embedded-systems architecture focused on deterministic execution, explicit machine states, hardware control and maintainable firmware.
+
 ---
 
-## SYSTEM INFORMATION
+# `01` · SYSTEM INFORMATION
 
-> **NEPTUNO CORE** is an embedded-systems architecture designed around deterministic execution, explicit machine states and hardware-aware control.
+<p align="center">
+
+| SYSTEM           | STATUS          |
+| :--------------- | :-------------- |
+| **Name**         | `NEPTUNO CORE`  |
+| **Developer**    | `JounaDev`      |
+| **Status**       | `ONLINE`        |
+| **Kernel**       | `1.x`           |
+| **Architecture** | `State Machine` |
+| **Execution**    | `Deterministic` |
+| **Lifecycle**    | `Managed`       |
+
+</p>
 
 ```yaml
 system:
@@ -67,18 +118,28 @@ engineering:
 interface:
   visual_system: NeoGlass
   accent: Electric Cyan
+  secondary_style: Industrial Rock
   environment: Dark
 ```
 
+<p align="center">
+
+  <img src="https://img.shields.io/badge/NEOGLASS-05070A?style=flat-square" />
+  <img src="https://img.shields.io/badge/ELECTRIC_CYAN-00BFFF?style=flat-square" />
+  <img src="https://img.shields.io/badge/INDUSTRIAL_R%26D-111820?style=flat-square" />
+  <img src="https://img.shields.io/badge/EMBEDDED-00BFFF?style=flat-square" />
+
+</p>
+
 ---
 
-## CORE MODULES
+# `02` · CORE MODULES
 
 <p align="center">
 
 <img
- src="https://skillicons.dev/icons?i=cpp,arduino,linux,git,github,vscode,bash"
- alt="Technology Stack"
+src="https://skillicons.dev/icons?i=cpp,arduino,linux,git,github,vscode,bash"
+alt="Core technologies"
 />
 
 </p>
@@ -89,11 +150,28 @@ interface:
   </sub>
 </p>
 
+<br>
+
+```text
+┌──────────────────────────────────────────────────────────────┐
+│                         CORE TOOLCHAIN                       │
+├──────────────────────────────────────────────────────────────┤
+│                                                              │
+│  LANGUAGE        C++                                         │
+│  PLATFORM        Arduino / Microcontrollers                  │
+│  BUILD           PlatformIO                                  │
+│  VERSIONING      Git / GitHub                                │
+│  DEVELOPMENT     VS Code                                     │
+│  ENVIRONMENT     Linux / Bash                                │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
+
 ---
 
-## ENGINEERING MODEL
+# `03` · ENGINEERING MODEL
 
-NEPTUNO CORE follows a deterministic event-processing model:
+NEPTUNO CORE follows a deterministic event-processing model.
 
 ```text
 ┌──────────────────────────────────────────────────────────────┐
@@ -127,13 +205,30 @@ The state machine determines behavior.
 The hardware executes the resulting action.
 ```
 
-The objective is to keep system behavior **explicit, testable, predictable and recoverable**.
+The objective is to keep system behavior:
+
+```text
+EXPLICIT
+TESTABLE
+PREDICTABLE
+RECOVERABLE
+MAINTAINABLE
+```
+
+<p align="center">
+
+  <img src="https://img.shields.io/badge/EXPLICIT-00BFFF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PREDICTABLE-00BFFF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MODULAR-00BFFF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RECOVERABLE-00BFFF?style=for-the-badge" />
+
+</p>
 
 ---
 
-## CORE ARCHITECTURE
+# `04` · CORE ARCHITECTURE
 
-### Machine State Model
+## Machine State Model
 
 ```cpp
 enum class SystemState {
@@ -147,7 +242,7 @@ enum class SystemState {
 };
 ```
 
-### Kernel Interface
+## Kernel Interface
 
 ```cpp
 class Kernel {
@@ -166,7 +261,9 @@ private:
 };
 ```
 
-### State Lifecycle
+---
+
+## State Lifecycle
 
 ```text
                          ┌──────────────┐
@@ -200,7 +297,7 @@ private:
 
 ---
 
-## SYSTEM PIPELINE
+# `05` · SYSTEM PIPELINE
 
 ```text
 ┌──────────────┐
@@ -243,7 +340,7 @@ private:
 
 ---
 
-## SYSTEM BOOT
+# `06` · SYSTEM BOOT
 
 ```text
 NEPTUNO CORE :: BOOT SEQUENCE
@@ -267,9 +364,17 @@ CONTROL     :: READY
 SYSTEM      :: OPERATIONAL
 ```
 
+<p align="center">
+
+<img src="https://img.shields.io/badge/BOOT-OK-00BFFF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/HARDWARE-SYNCED-00BFFF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/KERNEL-ONLINE-00BFFF?style=for-the-badge" />
+
+</p>
+
 ---
 
-## SYSTEM LAYERS
+# `07` · SYSTEM LAYERS
 
 ```text
 ┌──────────────────────────────────────────┐
@@ -287,11 +392,30 @@ SYSTEM      :: OPERATIONAL
 └──────────────────────────────────────────┘
 ```
 
-This separation allows hardware-dependent behavior to remain isolated from higher-level system logic.
+```text
+APPLICATION
+     │
+     ▼
+STATE MACHINE
+     │
+     ▼
+KERNEL
+     │
+     ▼
+HARDWARE ABSTRACTION
+     │
+     ▼
+DRIVERS
+     │
+     ▼
+HARDWARE
+```
+
+This separation keeps hardware-dependent behavior isolated from higher-level system logic.
 
 ---
 
-## SYSTEM COMPONENTS
+# `08` · SYSTEM COMPONENTS
 
 | Component      | Responsibility                        |
 | :------------- | :------------------------------------ |
@@ -308,7 +432,7 @@ This separation allows hardware-dependent behavior to remain isolated from highe
 
 ---
 
-## TECHNOLOGY ARCHITECTURE
+# `09` · TECHNOLOGY ARCHITECTURE
 
 ```text
                          NEPTUNO CORE
@@ -342,31 +466,67 @@ This separation allows hardware-dependent behavior to remain isolated from highe
 
 ---
 
-## REPOSITORIES
+# `10` · HARDWARE / SOFTWARE CONTRACT
+
+```text
+┌──────────────────── SOFTWARE ────────────────────┐
+│                                                  │
+│  STATE          LOGIC          CONTROL           │
+│    │              │               │              │
+│    └──────────────┼───────────────┘              │
+│                   │                              │
+└───────────────────┼──────────────────────────────┘
+                    │
+                    │ COMMAND
+                    ▼
+┌──────────────────── HARDWARE ────────────────────┐
+│                                                  │
+│  INPUTS         MCU / BUS         OUTPUTS       │
+│                                                  │
+│  SENSORS  ───►  PROCESSING  ───►  ACTUATORS     │
+│                                                  │
+└──────────────────────────────────────────────────┘
+```
+
+---
+
+# `11` · REPOSITORIES
 
 <p align="center">
 
 <a href="https://github.com/JounaDev/NeptunoCore">
-<img src="https://img.shields.io/badge/NEPTUNO_CORE-00BFFF?style=for-the-badge&logo=github&logoColor=white" />
+<img
+  src="https://img.shields.io/badge/NEPTUNO_CORE-00BFFF?style=for-the-badge&logo=github&logoColor=white"
+  alt="Neptuno Core"
+/>
 </a>
 
 <a href="https://github.com/JounaDev">
-<img src="https://img.shields.io/badge/GITHUB_PROFILE-00BFFF?style=for-the-badge&logo=github&logoColor=white" />
+<img
+  src="https://img.shields.io/badge/GITHUB_PROFILE-111820?style=for-the-badge&logo=github&logoColor=white"
+  alt="GitHub Profile"
+/>
 </a>
 
 <a href="https://github.com/JounaDev?tab=repositories">
-<img src="https://img.shields.io/badge/PROJECTS-00BFFF?style=for-the-badge&logo=github&logoColor=white" />
+<img
+  src="https://img.shields.io/badge/ALL_PROJECTS-111820?style=for-the-badge&logo=github&logoColor=white"
+  alt="All Projects"
+/>
 </a>
 
 <a href="https://jounadev.github.io/">
-<img src="https://img.shields.io/badge/PORTFOLIO-00BFFF?style=for-the-badge&logo=github&logoColor=white" />
+<img
+  src="https://img.shields.io/badge/PORTFOLIO-00BFFF?style=for-the-badge&logo=googlechrome&logoColor=white"
+  alt="Portfolio"
+/>
 </a>
 
 </p>
 
 ---
 
-## GITHUB METRICS
+# `12` · GITHUB METRICS
 
 <p align="center">
 
@@ -386,7 +546,7 @@ alt="Top Languages"
 
 ---
 
-## SYSTEM TELEMETRY
+# `13` · SYSTEM TELEMETRY
 
 ```text
 ┌──────────────────────────────────────────────────────────────┐
@@ -404,9 +564,18 @@ alt="Top Languages"
 └──────────────────────────────────────────────────────────────┘
 ```
 
+<p align="center">
+
+<img src="https://img.shields.io/badge/KERNEL-ONLINE-00BFFF?style=flat-square" />
+<img src="https://img.shields.io/badge/HARDWARE-SYNCED-00BFFF?style=flat-square" />
+<img src="https://img.shields.io/badge/I%2FO-READY-00BFFF?style=flat-square" />
+<img src="https://img.shields.io/badge/CONTROL-ACTIVE-00BFFF?style=flat-square" />
+
+</p>
+
 ---
 
-## OPERATIONAL STATUS
+# `14` · OPERATIONAL STATUS
 
 ```diff
 + Kernel initialized
@@ -420,13 +589,13 @@ alt="Top Languages"
 
 <p align="center">
 
-`SYSTEM :: OPERATIONAL`
+### `SYSTEM :: OPERATIONAL`
 
 </p>
 
 ---
 
-## ENGINEERING PRINCIPLES
+# `15` · ENGINEERING PRINCIPLES
 
 ```text
 01  Deterministic execution
@@ -438,13 +607,51 @@ alt="Top Languages"
 07  Clear separation of responsibilities
 ```
 
+<p align="center">
+
+<img src="https://img.shields.io/badge/01-DETERMINISTIC-00BFFF?style=flat-square" />
+<img src="https://img.shields.io/badge/02-STATEFUL-00BFFF?style=flat-square" />
+<img src="https://img.shields.io/badge/03-HARDWARE_AWARE-00BFFF?style=flat-square" />
+<img src="https://img.shields.io/badge/04-MODULAR-00BFFF?style=flat-square" />
+
+</p>
+
 ---
 
-## FINAL DIRECTIVE
+# `16` · ROCK / R&D DECALS
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/⚡_BUILD_HARD-00BFFF?style=for-the-badge&labelColor=05070A" />
+<img src="https://img.shields.io/badge/★_ROCK%20%2F%20R%26D-FFFFFF?style=for-the-badge&labelColor=111820" />
+<img src="https://img.shields.io/badge/☠_DEBUG_FIRST-FFFFFF?style=for-the-badge&labelColor=111820" />
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/C%2B%2B-ENGINEERING-00BFFF?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/HARDWARE-NO_SHORTCUTS-00BFFF?style=for-the-badge" />
+
+</p>
+
+```text
+       ╭──────────────────────────────────────────────╮
+       │                                              │
+       │       NEPTUNO // HARDWARE R&D               │
+       │                                              │
+       │       BUILD  ·  TEST  ·  DEBUG  ·  REPEAT   │
+       │                                              │
+       ╰──────────────────────────────────────────────╯
+```
+
+---
+
+# `17` · FINAL DIRECTIVE
 
 ```text
 NEPTUNO CORE
-────────────────────────────────
+────────────────────────────────────────
 
 ENGINEER THE STATE.
 CONTROL THE SYSTEM.
@@ -458,15 +665,34 @@ Hardware-aware architecture.
 <p align="center">
 
 <img
- src="https://capsule-render.vercel.app/api?type=waving&color=0:05070A,50:071923,100:00BFFF&height=140&section=footer"
+ src="https://img.shields.io/badge/NEPTUNO_CORE-ONLINE-00BFFF?style=for-the-badge"
+ alt="Neptuno Core Online"
+/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img
+ src="https://capsule-render.vercel.app/api?type=waving&color=0:05070A,45:071923,75:003B5C,100:00BFFF&height=160&section=footer"
  width="100%"
- alt="NEPTUNO CORE"
+ alt="NEPTUNO CORE footer"
 />
 
 </p>
 
 <p align="center">
+
   <sub>
     NEPTUNO CORE · Embedded Systems Architecture · JounaDev
+  </sub>
+
+</p>
+
+<p align="center">
+  <sub>
+    C++ · Arduino · PlatformIO · Hardware Control · State Machines
   </sub>
 </p>
